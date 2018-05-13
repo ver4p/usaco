@@ -1,0 +1,6 @@
+.DS_Store
+*.in
+*.out
+*.pyc
+*.txt
+*_profile.py
